@@ -1,0 +1,11 @@
+city,country,year,jams_delay,gdp_capita
+bogota,COL,2024,1200.5,15500.0
+mexico-city,MEX,2024,1150.2,19800.0
+sao-paulo,BRA,2024,1080.7,18500.0
+lima,PER,2024,950.4,14200.0
+buenos-aires,ARG,2024,820.3,16300.0
+santiago,CHL,2024,710.1,24500.0
+rio-de-janeiro,BRA,2024,890.5,17200.0
+quito,ECU,2024,620.2,11500.0
+medellin,COL,2024,580.4,14800.0
+guadalajara,MEX,2024,650.8,18200.0
