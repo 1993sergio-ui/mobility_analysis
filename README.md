@@ -38,7 +38,8 @@ Utilizando datos de **TomTom Traffic Index 2024** y **OECD City Economy**, el an
 ## 📁 Archivos en el repositorio
 
 - `ladb_mobility_economy_project.ipynb`: Notebook principal con todo el código y análisis.
-- `/datasets`: (Opcional) Carpeta que debería contener los archivos CSV utilizados.
+- `/data`:  Carpeta que debería contener los archivos CSV utilizados.
+- `/charts`:  Carpeta que debería contener los graficos generados.
 
 ---
 Análisis desarrollado para el Laboratorio de Análisis de Datos (LADB).
